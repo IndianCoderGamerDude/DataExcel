@@ -47,6 +47,8 @@ Data Processing Layer
 
 ---
 🎯 Problem Statement & Impact
+
+
 ❗ Problem
 
 Traditional Excel and data processing workflows are often:
@@ -63,11 +65,15 @@ Automates data transformation and processing tasks
 Uses AI to interpret user instructions and apply them to structured data
 Enables scalable and reusable workflows through APIs
 Reduces dependency on manual spreadsheet operations
+
+
 🌍 Why It Matters
 Saves time in repetitive data processing tasks
 Improves accuracy by reducing manual errors
 Makes data operations more accessible through AI-driven interactions
 Supports scalable automation for real-world business use cases
+
+
 ⚙️ Measurable Outcomes (Example / To Be Updated)
 Reduced manual data processing time by X% through automation
 Successfully handled datasets with X+ rows without performance issues
