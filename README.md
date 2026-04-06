@@ -46,10 +46,10 @@ Data Processing Layer
 * Package Manager: npm
 
 ---
-🎯 Problem Statement & Impact
+## 🎯 Problem Statement & Impact
 
 
-❗ Problem
+# ❗ Problem
 
 Traditional Excel and data processing workflows are often:
 
@@ -57,7 +57,8 @@ Manual and time-consuming
 Error-prone when handling large datasets
 Difficult to scale or automate
 Not accessible to non-technical users without scripting knowledge
-💡 Solution
+
+# 💡 Solution
 
 DataExcel addresses these challenges by providing an AI-assisted backend system that:
 
@@ -67,18 +68,11 @@ Enables scalable and reusable workflows through APIs
 Reduces dependency on manual spreadsheet operations
 
 
-🌍 Why It Matters
+# 🌍 Why It Matters
 Saves time in repetitive data processing tasks
 Improves accuracy by reducing manual errors
 Makes data operations more accessible through AI-driven interactions
 Supports scalable automation for real-world business use cases
-
-
-⚙️ Measurable Outcomes (Example / To Be Updated)
-Reduced manual data processing time by X% through automation
-Successfully handled datasets with X+ rows without performance issues
-Improved consistency and accuracy of transformations compared to manual workflows
-Reduced steps required to complete common Excel operations from X steps to Y steps
 
 ---
 
