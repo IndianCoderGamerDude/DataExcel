@@ -18,7 +18,7 @@ This project provides a scalable foundation for building intelligent tools that 
 ---
 
 ## 🏗️ Architecture Overview
-
+```
 Client (UI / API Consumer)
 │
 ▼
@@ -33,7 +33,7 @@ AI / Gemini Integration
 │
 ▼
 Data Processing Layer
-
+```
 ---
 
 ## 🛠️ Tech Stack
